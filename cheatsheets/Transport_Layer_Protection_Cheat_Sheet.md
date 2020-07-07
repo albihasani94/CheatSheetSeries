@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This cheat sheet provides guidance on how to implement transport layer protection for an application using Transport Layer Security (TLS). When correctly implemented, TLS can provides a number of security benefits:
+This cheat sheet provides guidance on how to implement transport layer protection for an application using Transport Layer Security (TLS). When correctly implemented, TLS can provide a number of security benefits:
 
 - Confidentiality - protection against an attacker from reading the contents of traffic.
 - Integrity - protection against an attacker modifying traffic.
